@@ -1,11 +1,10 @@
-[![Matrix SVG](https://raw.githubusercontent.com/Roger-Chui1/Roger-Chui1/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, I'm Roger 👋</b></h1>
+  <h1 align="center"><b>¡Hola, soy Roger 👋</b></h1>
 </p>
 
 <p>
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
+  <h4 align="center"><b>"Hablar es barato. Muéstrame el código"</b></h4>
 </p>
 
 <p align="center">
@@ -17,7 +16,7 @@
 <a href="https://www.facebook.com/roger.chui.1"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://instagram.com/roger_chui"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/roger-chui/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:roger.chui@example.com?subject=Hello%20Roger"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:roger.chui@example.com?subject=Hola%20Roger"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://yourwebsite.com"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fyourwebsite.com%2F"></a>-->
 </p>
 
@@ -25,19 +24,19 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Software Developer at [Your Company]
-- 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning the latest trends in Software Development.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2024 Goals: Contribute to Open Source projects and learn new technologies
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+### Soy Desarrollador de Software en [Tu Empresa]
+- 🔭 Actualmente estoy trabajando en mi Sitio Web de Portafolio :grin:
+- 🌱 Actualmente estoy aprendiendo las últimas tendencias en Desarrollo de Software.
+- 👯 Estoy buscando colaborar con otros desarrolladores :wink:
+- 🥅 Metas para 2024: Contribuir a proyectos de Código Abierto y aprender nuevas tecnologías
+- 💬 Pregúntame sobre cualquier cosa, estoy feliz de ayudar :smile:
+- 📬 Cómo contactarme: [¡Pongámonos en contacto!][linkedin]
+- 🧗 Intento: Ir más allá y superar los límites
+- ⚡ Curiosidad: Me encanta conectar con diferentes personas :raised_hands:
 
 <br>
 
-### Languages and Tools:
+### Lenguajes y Herramientas:
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -60,32 +59,31 @@
 <br>
 <br>
 
-### :zap: Github Stats
+### :zap: Estadísticas de GitHub
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Roger-Chui1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Roger's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Roger-Chui1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de GitHub de Roger" width="60%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roger-Chui1&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Roger's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roger-Chui1&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Principales lenguajes de Roger">
 
 <br>
 
-### :zap: Recent Github Activity
+### :zap: Actividad reciente en GitHub
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/example/repo/pull/1) in [example/repo](https://github.com/example/repo)
-2. 💪 Opened PR [#2](https://github.com/example/repo/pull/2) in [example/repo](https://github.com/example/repo)
-3. 🗣 Commented on [#3](https://github.com/example/repo/issues/3) in [example/repo](https://github.com/example/repo)
+1. ❌ Cerré el PR [#1](https://github.com/example/repo/pull/1) en [example/repo](https://github.com/example/repo)
+2. 💪 Abrí el PR [#2](https://github.com/example/repo/pull/2) en [example/repo](https://github.com/example/repo)
+3. 🗣 Comenté en [#3](https://github.com/example/repo/issues/3) en [example/repo](https://github.com/example/repo)
 <!--END_SECTION:activity-->
 
 <br>
 
-### 📊 &nbsp; STATS
+### 📊 &nbsp; ESTADÍSTICAS
 
-**From Hello World I have written 1.4 million Lines of Code ✍️**
+**Desde el Hola Mundo he escrito 1.4 millones de líneas de código ✍️**
 
-**I'm an early 🐤** 
+**Soy un madrugador 🐤** 
 
 | | | | |
 | --- | --- | --- | --- |
-|🌞 Morning                |132 commits         |![](https://via.placeholder.com/112x22/000000/000000?text=+)![](https://via.placeholder.com/288x22/b8b8b8/b8b8b8?=text=+)|27.5%|
-|🌆 Daytime                |176 commits         |![](https://via.placeholder.com/148x22/000000/000000?text=+)![](https://via.placeholder.com/252x22/b8b8b8
-
+|🌞 Mañana                |132 commits         |![](https://via.placeholder.com/112x22/000000/000000?text=+)![](https://via.placeholder.com/288x22/b8b8b8/b8b8b8?=text=+)|27.5%|
+|🌆 Día                   |176 commits         |![](https://via.placeholder.com/148x22/000000/000000?text
