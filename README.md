@@ -79,8 +79,12 @@
 
 **Soy un madrugador 🐤** 
 
-| | | | |
-| --- | --- | --- | --- |
-|🌞 Mañana                |132 commits         |![](https://via.placeholder.com/112x22/000000/000000?text=+)![](https://via.placeholder.com/288x22/b8b8b8/b8b8b8?=text=+)|27.5%|
-|🌆 Día                   |176 commits         |![](https://via.placeholder.com/148x22/000000/000000?text=+)![](https://via.placeholder.com/252x22/b8b8b8/b8b8b8?=text=+)|36.67%|
-|🌃 Noche                 |147 commits         |![](https://via.placeholder.com/124x22/000000/000000?text=+)![](https://via
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+
+<!--[website]: -->
+[twitter]: https://twitter.com/sumanth_98?s=09
+<!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
+[instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
+[linkedin]: https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/
