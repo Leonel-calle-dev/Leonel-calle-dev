@@ -1,6 +1,6 @@
 <!-- Este es un archivo README.md que usa HTML para personalizar tu perfil -->
 
-<h1 align="center">Hola, soy <a href="https://github.com/tu_usuario" target="_blank">Tu Nombre</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://github.com/Roger-Chui1" target="_blank">Roger</a> 👋</h1>
 <p align="center">
   <a href="https://twitter.com/tu_usuario" target="_blank">
     <img src="https://img.shields.io/twitter/follow/tu_usuario?style=social" alt="Twitter Follow">
@@ -20,8 +20,8 @@
 
 <h2>📈 Estadísticas</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&hide_title=true&hide=prs" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Roger-Chui1&show_icons=true&hide_title=true&hide=prs" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roger-Chui1" alt="GitHub Streak">
 </p>
 
 <h2>📫 Cómo contactarme</h2>
