@@ -1,8 +1,7 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
   <h1 align="center"><b>¡Hola, soy Roger 👋</b></h1>
 </p>
-
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
   <h4 align="center"><b>"Hablar es barato. Muéstrame el código"</b></h4>
 </p>
