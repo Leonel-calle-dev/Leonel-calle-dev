@@ -13,7 +13,7 @@
 
 <br>
 
-<img align="right" width="400px" alt="icono" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/imagen.png" />
+<img align="right" width="350px" alt="icono" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/imagen.png" />
 
 ### 🚀 Acerca de mí
 - 🔭 Actualmente estoy trabajando en proyectos personales.
@@ -21,7 +21,6 @@
 - 🥅 Metas para 2024: Contribuir a proyectos de código abierto y aprender nuevas tecnologías.
 - 🧗 Siempre trato de ir más allá y superar mis límites.
 
-<br>
 <br>
 
 ### Lenguajes y Herramientas
