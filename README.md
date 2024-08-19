@@ -59,21 +59,6 @@
 
 <br>
 
-### 📊 Estadísticas
-
-**Desde el Hola Mundo he escrito 1.4 millones de líneas de código ✍️**
-
-**Soy un madrugador 🐤** omenté en [#3](https://github.com/example/repo/issues/3) en [example/repo](https://github.com/example/repo)
-<!--END_SECTION:activity-->
-
-<br>
-
-### 📊 Estadísticas
-
-**Desde el Hola Mundo he escrito 1.4 millones de líneas de código ✍️**
-
-**Soy un madrugador 🐤** 
-
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 <!--[website]: -->
