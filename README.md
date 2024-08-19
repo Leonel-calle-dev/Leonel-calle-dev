@@ -16,10 +16,10 @@
 <img align="right" width="320px" alt="icono" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/imagen.png" />
 
 ### 🚀 Acerca de mí
-- 🔭 Actualmente estoy trabajando en proyectos personales.
-- 🌱 Estoy aprendiendo nuevas tecnologías y herramientas para mejorar mis habilidades.
-- 🥅 Metas para 2024: Contribuir a proyectos de código abierto y aprender nuevas tecnologías.
-- 🧗 Siempre trato de ir más allá y superar mis límites.
+🔭 Actualmente: Estoy desarrollando proyectos personales apasionantes que me permiten explorar nuevas ideas y enfoques.
+🌱 Aprendizaje Continuo: Me dedico a adquirir nuevas tecnologías y herramientas para mejorar constantemente mis habilidades y mantenerme actualizado en el campo del desarrollo.
+🥅 Metas para 2024: Mi objetivo es contribuir a proyectos de código abierto y aprender tecnologías emergentes para expandir mis conocimientos y experiencia.
+🧗 Enfoque Personal: Me esfuerzo por ir más allá de mis límites y desafiarme continuamente para lograr un crecimiento personal y profesional significativo.
 
 <br>
 
