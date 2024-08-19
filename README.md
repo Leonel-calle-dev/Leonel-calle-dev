@@ -28,6 +28,7 @@
 ### Lenguajes y Herramientas
 
 <p align="center">
+![JavaScript](https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/javascript.png)]
   <img alt="HTML5" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/html.png" />
   <img alt="CSS3" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/css.png" />
   <img alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/javascript.png" />
