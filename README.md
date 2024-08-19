@@ -5,10 +5,6 @@
 <h4 align="center">"La programación no es solo acerca de escribir código, es acerca de resolver problemas y construir el futuro. Cada línea de código es un paso más hacia una solución innovadora."</h4>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Roger-Chui1" />
-</p>
-
-<p align="center">
   <a href="https://www.facebook.com/roger.chui.1"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://instagram.com/roger_chui"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/roger-chui/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
