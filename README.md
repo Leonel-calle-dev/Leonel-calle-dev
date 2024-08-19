@@ -1,4 +1,4 @@
-![Matrix SVG](https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/portada.svg)
+![Matrix SVG](https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/portada.png)
 
 <h1 align="center">¡Hola, soy Roger Chui 👋</h1>
 
@@ -42,7 +42,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/02a5dd9492c94767051ef170e81019e667cb9af7/footer.svg" />
+<img src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/02a5dd9492c94767051ef170e81019e667cb9af7/footer.png" />
 
 <!--[website]: -->
 [twitter]: https://twitter.com/sumanth_98?s=09
