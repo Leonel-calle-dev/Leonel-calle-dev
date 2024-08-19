@@ -59,12 +59,11 @@
 
 <br>
 
-### 🏆 Actividad reciente en GitHub
+### 📊 Estadísticas
 
-<!--START_SECTION:activity-->
-1. ❌ Cerré el PR [#1](https://github.com/example/repo/pull/1) en [example/repo](https://github.com/example/repo)
-2. 💪 Abrí el PR [#2](https://github.com/example/repo/pull/2) en [example/repo](https://github.com/example/repo)
-3. 🗣 Comenté en [#3](https://github.com/example/repo/issues/3) en [example/repo](https://github.com/example/repo)
+**Desde el Hola Mundo he escrito 1.4 millones de líneas de código ✍️**
+
+**Soy un madrugador 🐤** omenté en [#3](https://github.com/example/repo/issues/3) en [example/repo](https://github.com/example/repo)
 <!--END_SECTION:activity-->
 
 <br>
@@ -75,9 +74,7 @@
 
 **Soy un madrugador 🐤** 
 
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 <!--[website]: -->
 [twitter]: https://twitter.com/sumanth_98?s=09
