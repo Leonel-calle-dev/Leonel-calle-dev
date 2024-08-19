@@ -31,13 +31,8 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ### Frameworks
-<p align="center">
-  <img alt="React" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/react.png" />
-  <img alt="Bootstrap" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/bootstrap.png" />
-  <img alt="Tailwind CSS" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/tailwind-css.png" />
-</p>
 
-|<img alt="React" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/react.png" /> | <img alt="Bootstrap" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/bootstrap.png" /> | <img alt="Tailwind CSS" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/tailwind-css.png" /> |
+|<img alt="React" width="50px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/react.png" /> | <img alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/bootstrap.png" /> | <img alt="Tailwind CSS" width="50px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/tailwind-css.png" /> |
 |:---:|:---:|:---:|
 
 <br>
