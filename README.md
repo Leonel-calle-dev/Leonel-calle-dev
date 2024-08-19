@@ -16,9 +16,7 @@
 <img align="right" height="270px" alt="png" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/icon.png" />
 
 ### 🚀 Acerca de mí
-
-- 🌟 Soy Desarrollador de Software.
-- 🔭 Actualmente estoy trabajando en mi sitio web de portafolio y proyectos personales.
+- 🔭 Actualmente estoy trabajando en proyectos personales.
 - 🌱 Estoy aprendiendo nuevas tecnologías y herramientas para mejorar mis habilidades.
 - 🥅 Metas para 2024: Contribuir a proyectos de código abierto y aprender nuevas tecnologías.
 - 🧗 Siempre trato de ir más allá y superar mis límites.
