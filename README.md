@@ -17,15 +17,12 @@
 
 ### 🚀 Acerca de mí
 
-- 🌟 Soy Desarrollador de Software en [Tu Empresa].
+- 🌟 Soy Desarrollador de Software.
 - 🔭 Actualmente estoy trabajando en mi sitio web de portafolio y proyectos personales.
 - 🌱 Estoy aprendiendo nuevas tecnologías y herramientas para mejorar mis habilidades.
-- 👯 Busco colaborar con otros desarrolladores en proyectos interesantes.
 - 🥅 Metas para 2024: Contribuir a proyectos de código abierto y aprender nuevas tecnologías.
 - 💬 No dudes en preguntarme cualquier cosa, estaré encantado de ayudar.
-- 📬 Cómo contactarme: [¡Pongámonos en contacto!][linkedin]
 - 🧗 Siempre trato de ir más allá y superar mis límites.
-- ⚡ Curiosidad: Me encanta conectar con personas de diferentes orígenes y aprender de sus experiencias.
 
 <br>
 
