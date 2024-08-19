@@ -31,14 +31,6 @@
 |<img alt="HTML5" width="45px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/html.png" /> | <img alt="CSS3" width="45px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/css.png" /> | <img alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/javascript.png" /> |<img alt="Node.js" width="45px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/nodejs.png" /> | <img alt="Postgres" width="45px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/postgres.png" /> | <img alt="MySQL" width="45px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/mysql.png" /> | <img alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/vs-code.png" /> | <img alt="GitHub" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
   
-  <img alt="HTML5" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/html.png" />
-  <img alt="CSS3" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/css.png" />
-  <img alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/javascript.png" />
-  <img alt="Node.js" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/nodejs.png" />
-  <img alt="Postgres" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/postgres.png" />
-  <img alt="MySQL" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/mysql.png" />
-  <img alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/vs-code.png" />
-  <img alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </p>
 
 ### Frameworks
