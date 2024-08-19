@@ -42,7 +42,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/02a5dd9492c94767051ef170e81019e667cb9af7/footer.png" />
+<img src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/footer.png" />
 
 <!--[website]: -->
 [twitter]: https://twitter.com/sumanth_98?s=09
