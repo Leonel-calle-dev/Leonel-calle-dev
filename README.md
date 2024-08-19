@@ -21,7 +21,6 @@
 - 🔭 Actualmente estoy trabajando en mi sitio web de portafolio y proyectos personales.
 - 🌱 Estoy aprendiendo nuevas tecnologías y herramientas para mejorar mis habilidades.
 - 🥅 Metas para 2024: Contribuir a proyectos de código abierto y aprender nuevas tecnologías.
-- 💬 No dudes en preguntarme cualquier cosa, estaré encantado de ayudar.
 - 🧗 Siempre trato de ir más allá y superar mis límites.
 
 <br>
