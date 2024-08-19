@@ -13,7 +13,7 @@
 
 <br>
 
-<img align="right" width="350px" alt="icono" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/imagen.png" />
+<img align="right" width="320px" alt="icono" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/imagen.png" />
 
 ### 🚀 Acerca de mí
 - 🔭 Actualmente estoy trabajando en proyectos personales.
