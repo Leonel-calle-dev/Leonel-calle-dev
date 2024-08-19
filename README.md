@@ -27,7 +27,7 @@
 
 ### Lenguajes y Herramientas
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-v1.0.0-blue?style=flat&logo=https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/javascript.png)](https://github.com/Leonel-calle-dev)
+[![JavaScript](https://img.shields.io/badge/style=flat&logo=https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/javascript.png)](https://github.com/Leonel-calle-dev)
 
 
 <p align="center">
