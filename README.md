@@ -25,25 +25,30 @@
 
 <br>
 
-### 🛠️ Lenguajes y Herramientas
+### 🛠️ Lenguajes 
 
 <p align="left">
+  <img alt="HTML5" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/html.png" />
+  <img alt="CSS3" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/css.png" />
+  <img alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/javascript.png" />
+  <img alt="Node.js" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/nodejs.png" />
+</p>
+### 🛠️ Bases de Datos
+<p align="left">
+  <img alt="Postgres" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/postgres.png" />
+  <img alt="MySQL" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/mysql.png" />
+</p>
+
+### 🛠️ Frameworks
+<p align="left">
+  <img alt="React" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/react.png" />
+  <img alt="Bootstrap" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/bootstrap.png" />
+  <img alt="Tailwind CSS" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/tailwind-css.png" />
+</p>
+### 🛠️ Herramientas
+<p align="left">
   <img alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-  <img alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  <img alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-  <img alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-  <img alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-  <img alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <img alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-  <img alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-  <img alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-  <img alt="Django" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-  <img alt="Flask" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-  <img alt="Tailwind CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 </p>
 
 <br>
