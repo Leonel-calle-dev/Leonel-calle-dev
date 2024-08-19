@@ -2,7 +2,7 @@
 
 <h1 align="center">¡Hola, soy Roger Chui 👋</h1>
 
-<h4 align="center">"Hablar es barato. Muéstrame el código"</h4>
+<h4 align="center">"La programación no es solo acerca de escribir código, es acerca de resolver problemas y construir el futuro. Cada línea de código es un paso más hacia una solución innovadora."</h4>
 
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Roger-Chui1" />
