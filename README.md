@@ -1,4 +1,4 @@
-![Matrix SVG](https://raw.githubusercontent.com/Leonel-calle-dev/SVG/main/image(1).svg)
+![Matrix SVG](https://raw.githubusercontent.com/Leonel-calle-dev/SVG/main/portada.svg)
 
 <h1 align="center">¡Hola, soy Roger Chui 👋</h1>
 
