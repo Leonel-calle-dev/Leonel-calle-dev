@@ -26,11 +26,6 @@
 <br>
 
 ### Lenguajes y Herramientas
-<a href="https://github.com/Leonel-calle-dev">
-  <img src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/javascript.png" alt="JavaScript" />
-</a>
-
-
 <p align="center">
   <img alt="HTML5" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/html.png" />
   <img alt="CSS3" width="35px" src="https://raw.githubusercontent.com/Leonel-calle-dev/ICONOS/main/css.png" />
